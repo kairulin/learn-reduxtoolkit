@@ -1,0 +1,38 @@
+.login{
+  width: 366px;
+  border: 1px solid #202124;
+  padding: 40px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 100%;
+  top: 50px;
+  
+}
+
+.login .title{
+  display: flex;
+  justify-content: center;
+}
+
+.login div{
+  display: flex;
+  flex-direction: column;
+}
+
+.info{
+  width: 366px;
+  border: 1px solid #202124;
+  padding: 40px;
+  position: relative;
+  left: 50%;
+  transform: translateX(-50%);
+  height: 100%;
+  top: 50px;
+}
+
+.info div{
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
